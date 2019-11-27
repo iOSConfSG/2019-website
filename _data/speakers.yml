@@ -3,7 +3,6 @@
   name: "Paul"
   surname: "Hudson"
   company: "Hacking with Swift"
-  title: "Developer Relations Program Manager"
   bio: "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Server-Side Swift, Hacking with macOS, Hacking with watchOS, Hacking with tvOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)"
   thumbnailUrl: paul.jpg
   rockstar: true
